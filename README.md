@@ -8,9 +8,6 @@
     <li><a href="#github-lives-pages">GitHub Live Pages</a></li>
     <li><a href="#about">About This Project</a></li>
     <li><a href="#built-with">Built With</a></li>
-    <li><a href="#user-stories">User Stories</a></li>
-    <li><a href="#technical-aspects">Technical Aspects</a></li>
-    <li><a href="#upcoming-features">Upcoming Features</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
